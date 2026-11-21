@@ -21,7 +21,7 @@ export const projects = [
     tags: ["React.js", "Vercel"],
     description: "A construction marketplace prototype that brings equipment, skilled workers, and raw materials into one digital platform. It helps users browse construction listings and discover relevant products and services.",
     features: ["Construction resource categories", "Marketplace browsing interface", "User-friendly navigation", "Deployed hackathon prototype"],
-    art: ["Brikzaa", "#23392c", "#72947b", [["Equipment", "box"], ["Skilled workers", "users"], ["Materials", "layers"]]],
+    art: ["Brikzaa", "#243b49", "#6c92a8", [["Equipment", "box"], ["Skilled workers", "users"], ["Materials", "layers"]]],
     demo: "", source: "",
   },
   {
@@ -30,21 +30,21 @@ export const projects = [
     tags: ["React.js", "Django", "PostgreSQL", "REST APIs"],
     description: "A full-stack customer relationship management application designed to organize customer records, manage sales leads, and track follow-up activities.",
     features: ["Customer record management", "Sales lead management", "Follow-up workflows", "Django REST API integration", "Relational database models"],
-    art: ["CRM workspace", "#283b33", "#7a9a89", [["Customers", "users"], ["Leads", "layers"], ["Follow-ups", "mail"]]],
+    art: ["CRM workspace", "#283b4e", "#809bb4", [["Customers", "users"], ["Leads", "layers"], ["Follow-ups", "mail"]]],
     demo: "", source: "",
   },
   {
     title: "Python E-commerce Website",
     tags: ["Python"],
     description: "A Python-based e-commerce application focused on server-side programming, maintainable backend code, and supporting online shopping workflows.",
-    art: ["Store backend", "#253a32", "#548e7a", [["Catalog", "box"], ["Orders", "layers"], ["Backend", "terminal"]]],
+    art: ["Store backend", "#243e48", "#568c9b", [["Catalog", "box"], ["Orders", "layers"], ["Backend", "terminal"]]],
     demo: "", source: "",
   },
   {
     title: "E-commerce Frontend",
     tags: ["Next.js"],
     description: "A responsive e-commerce storefront developed using reusable Next.js components, consistent product layouts, and intuitive navigation.",
-    art: ["Storefront", "#343d2c", "#87976f", [["Product grid", "layers"], ["Browse", "box"], ["Navigation", "menu"]]],
+    art: ["Storefront", "#343d4a", "#8294a9", [["Product grid", "layers"], ["Browse", "box"], ["Navigation", "menu"]]],
     demo: "", source: "",
   },
 ];
